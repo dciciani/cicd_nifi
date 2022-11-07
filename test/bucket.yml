@@ -1,0 +1,7 @@
+flows:
+  02182dde-9cdc-4ca8-ae4b-43994151e177: {ver: 1, file: test-2.snapshot, author: daniele.ciciani,
+    created: 1667835469892, flowName: test-2, flowDesc: ''}
+  e1099101-61b3-46c2-aa37-932fb195385c: {ver: 2, file: test-1.snapshot, comments: version2,
+    author: daniele.ciciani, created: 1667833999919, flowName: test-1, flowDesc: ''}
+layoutVer: 1
+bucketId: 1cabbddd-e4b5-4908-8766-52e0d799e2f1
