@@ -1,4 +1,6 @@
 flows:
+  51572716-7472-4f52-9812-eac4cfaa05d1: {ver: 1, file: cicd-test-flow.snapshot, author: daniele.ciciani,
+    created: 1667835538597, flowName: cicd-test-flow, flowDesc: ''}
   02182dde-9cdc-4ca8-ae4b-43994151e177: {ver: 2, file: test-2.snapshot, comments: v2,
     author: daniele.ciciani, created: 1667835518991, flowName: test-2, flowDesc: ''}
   e1099101-61b3-46c2-aa37-932fb195385c: {ver: 2, file: test-1.snapshot, comments: version2,
