@@ -7,5 +7,8 @@ flows:
   00563953-31be-436c-9f78-9679c41856de: {ver: 1, file: CDW_User_VW_Monitoring.snapshot,
     comments: '', author: rajesh.bodolla, created: 1668074702002, flowName: CDW User
       VW Monitoring, flowDesc: ''}
+  a3ecd404-1ef3-47a0-9cff-f36509ac05ac: {ver: 5, file: FLOPS_Monitoring.snapshot,
+    comments: '', author: rajesh.bodolla, created: 1668076857212, flowName: FLOPS
+      Monitoring, flowDesc: ''}
 layoutVer: 1
 bucketId: 029cfd98-2556-4a76-868e-06817b34538f
